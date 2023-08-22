@@ -10,7 +10,8 @@ Below is a link to a video that shows the application in use:
 https://drive.google.com/file/d/1cUw_ZKClm38XmW6-9P9aQU3wvdiXTs1o/view
 
 Here is an example logo that was generated:
-http://127.0.0.1:5501/logo.svg
+![image](https://github.com/marinadelconte/LogoGenerator/assets/137957098/d30b6580-ce4c-403c-a2d4-f3c8cea80ad9)
+
 
 ## Credits
 To begin working on this project, my instructor provided an instructional video that provided us with some code to get started. I also worked with my tutor when I was getting stuck.
